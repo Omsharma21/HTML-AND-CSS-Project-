@@ -12,8 +12,8 @@ Albums and Playlists: Previews for Top 50 Global albums, with sections for creat
 
 # Output
 
-Homepage Layout
-https://github.com/Omsharma21/HTML-AND-CSS-Project-/blob/main/assets/s1.png?raw=true
+Homepage Layout:
+./https://github.com/Omsharma21/HTML-AND-CSS-Project-/blob/main/assets/s1.png?raw=true
 
 Albums Section
 C:\Users\Om Sharma\Documents\1.APNA COLLEGE\1. CSS\9.Spotify Clone\HTML-AND-CSS-Project-\HTML-AND-CSS-Project-\assets\s2.png
