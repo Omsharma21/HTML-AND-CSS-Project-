@@ -13,11 +13,11 @@ Albums and Playlists: Previews for Top 50 Global albums, with sections for creat
 # Output
 
 Homepage Layout:
-![Screenshot 1](./s1.png)
+![Screenshot 1](./assets/s1.png)
 
 
 Albums Section
-![Screenshot 2](./s2.png)
+![Screenshot 2](./assets/s2.png)
 
 # 🚀 Future Enhancements
 In the future, this project could be extended to include:
