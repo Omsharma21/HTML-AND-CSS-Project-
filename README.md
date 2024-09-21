@@ -13,10 +13,11 @@ Albums and Playlists: Previews for Top 50 Global albums, with sections for creat
 # Output
 
 Homepage Layout:
-./assets/s1.png
+![Screenshot 1](./s1.png)
+
 
 Albums Section
-C:\Users\Om Sharma\Documents\1.APNA COLLEGE\1. CSS\9.Spotify Clone\HTML-AND-CSS-Project-\HTML-AND-CSS-Project-\assets\s2.png
+![Screenshot 2](./s2.png)
 
 # 🚀 Future Enhancements
 In the future, this project could be extended to include:
