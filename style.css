@@ -238,8 +238,8 @@ a{
 .album{
     width: 25%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
+    align-items:center;
     margin-top: 1.5rem;
 }
 
@@ -250,16 +250,19 @@ a{
     border-radius: 5px;
 }
 
+
 .song_title{
-    font-size: 0.5rem;
-    margin-right: 2.5rem;
-    margin-bottom: 0px;
+    font-size: 0.8rem;
+    margin-bottom: 1px;
+    margin-left: 2rem;
+    font-weight: bold;
 }
 
 .artist{
-    font-size: 0.5rem;
+    font-size: 0.7rem;
     opacity: 0.9;
     height: 30px;
+    margin-left: 2.25rem;
 }
 
 .add_icon{
@@ -335,13 +338,17 @@ a{
 .control{
     width: 25%;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .control i{
     margin: 0.5rem;
+    margin-top: 2.5rem;
+    font-size: 1.2rem;
 }
 
 .vol{
-    width: 5rem;
+    width: 10rem;
+    height: -1rem;
+    color: #17bd54;
 }
